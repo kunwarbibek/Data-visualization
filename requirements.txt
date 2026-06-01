@@ -1,0 +1,14 @@
+Flask
+gunicorn
+Flask-Cors
+python-dotenv
+python-dotenv
+flask-sqlalchemy
+pymysql
+flask-sqlalchemy
+pandas
+scikit-learn
+numpy
+plotly
+ipykernal
+matplotlib
